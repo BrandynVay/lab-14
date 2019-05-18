@@ -1,10 +1,13 @@
-Number and name of feature:
-________________________________
+# LAB 14
 
-Estimate of time needed to complete: _____
+Name: Brandyn Vay
 
-Start time: _____
+Feature: SQL Norimalization
 
-Finish time: _____
+Estimate of time needed to complete: 30 min
 
-Actual time needed to complete: _____
+Start time: 2:00 pm
+
+Finish time: 2:25 pm
+
+Actual time needed to complete: 25 min
